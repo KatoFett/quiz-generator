@@ -1,6 +1,6 @@
 # Overview
 
-TypeScript is a common and important language in the software engineering industry, being built upon the popular JavaScript language. The purpose of this application is to become familiar with the basics of TypeScript.
+The purpose of this application is to become familiar with advanced JavaScript principles, namely classes. JavaScript supports functional level development, but also object-oriented with classes. Becoming an advanced JavaScript developer requires extensive knowledge of both areas and this program focuses on the more advanced topics.
 
 The quiz generator allows a user to create, save, load, and run a custom quiz. It supports multiple types of questions, such as multiple choice or essay response, as well as flexible options for answering. Grading is not implemented in the quiz system and must be done by the creator of the quiz.
 
@@ -12,7 +12,7 @@ The quiz generator allows a user to create, save, load, and run a custom quiz. I
 
 Visual Studio 2022
 
-TypeScript
+JavaScript
 
 # Useful Websites
 
