@@ -4,9 +4,7 @@ The purpose of this application is to become familiar with advanced JavaScript p
 
 The quiz generator allows a user to create, save, load, and run a custom quiz. It supports multiple types of questions, such as multiple choice or essay response, as well as flexible options for answering. Grading is not implemented in the quiz system and must be done by the creator of the quiz.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/en7JQjdCVFs)
 
 # Development Environment
 
@@ -16,15 +14,16 @@ JavaScript
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [Classes - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+- [instanceof - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/instanceof)
+- [throw - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw)
+- [JavaScript Enums - Mastering JS](https://masteringjs.io/tutorials/fundamentals/enum)
+- [Understanding This, Bind, Call, and Apply in JavaScript | DigitalOcean](https://www.digitalocean.com/community/conceptual-articles/understanding-this-bind-call-and-apply-in-javascript)
+- [Create and download file in JS](https://stackoverflow.com/questions/3665115/how-to-create-a-file-in-memory-for-user-to-download-but-not-through-server)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-
-- Item 1
-- Item 2
-- Item 3
+- Reordering questions
+- Validation
+- Selectively enable save/submit buttons
+- More question types
