@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Take Quiz Online</title>
+    <meta name="description" content="Take online quiz">
+    <meta name="author" content="Aaron Fox">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="styles/take-quiz.css">
+</head>
+<body>
+    <header>
+        <h1>Quiz</h1>
+    </header>
+    <main>
+        <h2>Questions</h2>
+        <hr>
+        <ol id="questionsList"></ol>
+        <form>
+            <a download="submission.txt" hidden></a>
+            <button>Submit</button>
+        </form>
+    </main>
+    <script src="scripts/quiz-core.js"></script>
+    <script src="scripts/take-quiz.js"></script>
+</body>
+</html>
