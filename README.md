@@ -6,6 +6,8 @@ The quiz generator allows a user to create, save, load, and run a custom quiz. I
 
 [Software Demo Video](https://youtu.be/en7JQjdCVFs)
 
+[Try it out via GitHub pages](https://katofett.github.io/quiz-generator/quiz-generator.html)
+
 # Development Environment
 
 Visual Studio 2022
